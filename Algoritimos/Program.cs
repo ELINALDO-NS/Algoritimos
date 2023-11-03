@@ -3,7 +3,7 @@
   var a = TwoSum(new int[] { 8, 5, 7 }, 12);
 
 
-            Console.WriteLine(a[0]+" "+ a[1]);
+            Console.WriteLine("Array {8,5,7} valor da soma 12, posições correspondentes para a soma " + a[0]+" e "+ a[1]);
             Console.ReadKey();
 
              int[] TwoSum(int[] nums, int target)
